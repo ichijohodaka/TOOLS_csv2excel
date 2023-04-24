@@ -1,0 +1,46 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="61px" height="61px" viewBox="-0.5 -0.5 61 61" content="&lt;mxfile&gt;&lt;diagram id=&quot;3PsX6j7X6lxTbDTu_duj&quot; name=&quot;Page-1&quot;&gt;7VVLU4MwEP413IHUPo6CVS+eOqPnSLaQaSBMmgr117spSwFpp1V79MKQb3cJ34PgsTivnwwvsxctQHmhL2qPPXhhOJvM8eqAfQOwhd8AqZGigYIOWMlPILBt20kB20Gj1VpZWQ7BRBcFJHaAcWN0NWxbazXcteQpjIBVwtUYfZPCZoQG00VXeAaZZrT1PJw1hZy3zcRkm3Ghqx7Elh6Ljda2ucvrGJTTrtWlmXs8Uz2+mIHCXjMwaQY+uNoRN3ovu2/JGr0rBLj+wGNRlUkLq5Inrlqhu4hlNldUVvwdVMSTTXoYi7XSBkuFLrA/Qj8slwU4yMc1bQ7GQn2WQHCUBeMEOgdr9thCA2xOSlKUwimtq86YFsp6lrQYpyikxyd3auENCXZavNll8ZwM5VmalE/+3rb7f6d/dxX9uxvQD0f049XrSAHkjHtGW2v0Br7lgSuZFrhMkK0LRbSWSn3r6YXLKSjxK7ynsVwK4bY5Gcoutv6Pc7nGNZ06wfSY074rszOejo26YAS7gRFsZMSyTtyJ+2/FwIr2G7nuhPiFM7jsju5Drff/Y8sv&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="60" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 20px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                CSV
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="30" y="25" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">
+                    CSV
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 40px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                Excel
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="30" y="45" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px" text-anchor="middle">
+                    Excel
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
