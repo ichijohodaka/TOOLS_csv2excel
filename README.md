@@ -1,5 +1,7 @@
 # csv2excel
 
+[日本語 README](https://github.com/ichijohodaka/csv2excel/blob/main/READMEJapanese.md)
+
 This is a Python script to simply generate an excel file from a csv file. The contents of csv file will be copied to the excel file. The file name of the excel file inherits the one of the csv file.
 
 ## Usage on Windows
