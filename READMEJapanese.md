@@ -35,7 +35,7 @@ py -m pip install imageio
 ```
 py -m nuitka --disable-console --onefile --windows-icon-from-ico=icon.png csv2excel.py
 ```
-数分後，`dist`ディレクトリに`csv2excel.exe`ができているはずです。
+数分後，`csv2excel.exe`ができているはずです。（`dist`の中にも同じものができているが、こちらは`python???.dll`がないと動かないようです）
 
 これによってPythonが入っていない環境でも実行できるようになります。
 ```

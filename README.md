@@ -36,7 +36,7 @@ Now you can make an exe file (everything included) of `csv2excel.py` as follows.
 ```
 py -m nuitka --disable-console --onefile --windows-icon-from-ico=icon.png csv2excel.py
 ```
-After a few minutes, you will find `csv2excel.exe` in the directory `dist`.
+After a few minutes, you will find `csv2excel.exe`. A file with the same name in the directory `dist` is created, but it needs `python???.dll`.
 
 This enables us to use our command without Python system. You can use the command line like
 ```
